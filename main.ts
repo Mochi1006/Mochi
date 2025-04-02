@@ -18,6 +18,8 @@ function 小空间展台 () {
     tiles.placeOnRandomTile(_14光纤传输, assets.tile`14`)
     _15塑料烟花 = sprites.create(assets.image`15塑料烟花`, SpriteKind.Player)
     tiles.placeOnRandomTile(_15塑料烟花, assets.tile`15`)
+    _16数据不等于信息 = sprites.create(assets.image`16数据不等于信息`, SpriteKind.Player)
+    tiles.placeOnRandomTile(_16数据不等于信息, assets.tile`16`)
 }
 scene.onOverlapTile(SpriteKind.Player, assets.tile`myTile1`, function (sprite, location) {
     game.splash("按A键开门")
@@ -63,6 +65,7 @@ let _04压电陶瓷: Sprite = null
 let _03液态金属: Sprite = null
 let _02合金大比拼: Sprite = null
 let _01钢铁练成: Sprite = null
+let _16数据不等于信息: Sprite = null
 let _15塑料烟花: Sprite = null
 let _14光纤传输: Sprite = null
 let _13打捞塑料: Sprite = null

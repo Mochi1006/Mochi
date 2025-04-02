@@ -552,25 +552,6 @@ fcbbdcdbdddbdcdbbcf
 . f f f f f f f f f f f f f . . 
 . . . . . . . . . . . . . . . . 
 `;
-            case "image26":
-            case "16数据不等于信息":return img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . 1 1 1 1 1 1 1 . . . . . 
-. . . . 1 8 8 8 8 8 1 . . . . . 
-. f f f 1 d 8 d 8 d 1 f f f . . 
-. f d d 1 8 8 8 8 8 1 d d f . . 
-. f d d 1 1 1 1 1 1 1 d d f . . 
-. f d d d d d d d d d d d f . . 
-. f f f f f f f f f f f f f . . 
-. f 6 6 6 6 6 6 6 6 6 6 6 f . . 
-. f 6 6 6 6 6 6 6 6 6 6 6 f . . 
-. f d d d d d d d d d d d f . . 
-. f f f f f f f f f f f f f . . 
-. . . . . . . . . . . . . . . . 
-`;
             case "image27":
             case "19创作不等于创意":return img`
 . . . . . . . . . . . . . . . . 
@@ -703,6 +684,25 @@ f f f f f f f f f f f f f f f .
 . d d d d d d d d d d d d d d d 
 . d . . . . . . . . . . . . . d 
 . d . . . . . . . . . . . . . d 
+`;
+            case "image26":
+            case "16数据不等于信息":return img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . 1 1 1 1 1 1 1 . . . . . 
+. . . . 1 8 8 8 8 8 1 . . . . . 
+. f f f 1 d 8 d 8 d 1 f f f . . 
+. f d d 1 8 8 8 8 8 1 d d f . . 
+. f d d 1 1 1 1 1 1 1 d d f . . 
+. f d d d d d d d d d d d f . . 
+. f f f f f f f f f f f f f . . 
+. f 6 6 6 6 6 6 6 6 6 6 6 f . . 
+. f 6 6 6 6 6 6 6 6 6 6 6 f . . 
+. f d d d d d d d d d d d f . . 
+. f f f f f f f f f f f f f . . 
+. . . . . . . . . . . . . . . . 
 `;
         }
         return null;
