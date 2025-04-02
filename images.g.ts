@@ -343,44 +343,6 @@ fcbbdcdbdddbdcdbbcf
 . f f f f f f f f f f f f f . . 
 . . . . . . . . . . . . . . . . 
 `;
-            case "image16":
-            case "09可软可硬":return img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. f f f f f f f f f f f f f f . 
-. f d d 1 1 d d d d 1 1 1 d f . 
-. f d 1 d d 1 d d 1 d d d 1 f . 
-. f 1 d d d d 1 d d 1 d 1 d f . 
-. f d 1 d d 1 d d d 1 d 1 d f . 
-. f d d 1 1 d d d d d 1 d d f . 
-. f d d d d d d d d d d d d f . 
-. f f f f f f f f f f f f f f . 
-. f 6 6 6 6 6 6 6 6 6 6 6 6 f . 
-. f 6 6 6 6 6 6 6 6 6 6 6 6 f . 
-. f d d d d d d d d d d d d f . 
-. f f f f f f f f f f f f f f . 
-. . . . . . . . . . . . . . . . 
-`;
-            case "image17":
-            case "12千丝万缕":return img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . 1 1 1 . 1 1 1 . 1 1 1 . . 
-. . . 1 5 1 . 1 3 1 . 1 b 1 . . 
-. f f 1 5 1 f 1 3 1 f 1 b 1 f f 
-. f d 1 1 1 d 1 1 1 d 1 1 1 d f 
-. f d 1 5 1 d 1 3 1 d 1 b 1 d f 
-. f d 1 1 1 d 1 1 1 d 1 1 1 d f 
-. f f f f f f f f f f f f f f f 
-. f 6 6 6 6 6 6 6 6 6 6 6 6 6 f 
-. f 6 6 6 6 6 6 6 6 6 6 6 6 6 f 
-. f d d d d d d d d d d d d d f 
-. f f f f f f f f f f f f f f f 
-. . . . . . . . . . . . . . . . 
-`;
             case "image14":
             case "07玻璃艺术":return img`
 . . . . . . . . . . . . . . . . 
@@ -419,6 +381,25 @@ fcbbdcdbdddbdcdbbcf
 . f d d d d d d d d d d d d d f 
 . f f f f f f f f f f f f f f f 
 `;
+            case "image16":
+            case "09可软可硬":return img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. f f f f f f f f f f f f f f . 
+. f d d 1 1 d d d d 1 1 1 d f . 
+. f d 1 d d 1 d d 1 d d d 1 f . 
+. f 1 d d d d 1 d d 1 d 1 d f . 
+. f d 1 d d 1 d d d 1 d 1 d f . 
+. f d d 1 1 d d d d d 1 d d f . 
+. f d d d d d d d d d d d d f . 
+. f f f f f f f f f f f f f f . 
+. f 6 6 6 6 6 6 6 6 6 6 6 6 f . 
+. f 6 6 6 6 6 6 6 6 6 6 6 6 f . 
+. f d d d d d d d d d d d d f . 
+. f f f f f f f f f f f f f f . 
+. . . . . . . . . . . . . . . . 
+`;
             case "image19":
             case "10比黑还黑":return img`
 . . . . . . . . . . . . . . . . 
@@ -455,6 +436,25 @@ fcbbdcdbdddbdcdbbcf
 . f 6 6 6 6 6 6 6 6 6 6 6 f . . 
 . f d d d d d d d d d d d f . . 
 . f f f f f f f f f f f f f . . 
+. . . . . . . . . . . . . . . . 
+`;
+            case "image17":
+            case "12千丝万缕":return img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . 1 1 1 . 1 1 1 . 1 1 1 . . 
+. . . 1 5 1 . 1 3 1 . 1 b 1 . . 
+. f f 1 5 1 f 1 3 1 f 1 b 1 f f 
+. f d 1 1 1 d 1 1 1 d 1 1 1 d f 
+. f d 1 5 1 d 1 3 1 d 1 b 1 d f 
+. f d 1 1 1 d 1 1 1 d 1 1 1 d f 
+. f f f f f f f f f f f f f f f 
+. f 6 6 6 6 6 6 6 6 6 6 6 6 6 f 
+. f 6 6 6 6 6 6 6 6 6 6 6 6 6 f 
+. f d d d d d d d d d d d d d f 
+. f f f f f f f f f f f f f f f 
 . . . . . . . . . . . . . . . . 
 `;
             case "image20":
