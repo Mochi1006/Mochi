@@ -63,6 +63,24 @@ let 苹果: Sprite = null
 let 麻薯: Sprite = null
 let 探索者 = 0
 tiles.setCurrentTilemap(tilemap`级别1`)
+let mySprite = sprites.create(img`
+    . . . . . . . . . . . . . . . . 
+    . . . . . f f f . . . . . . . . 
+    . . . . f f 2 f f . . . . . . . 
+    . . . f 2 2 2 2 2 f f . . . . . 
+    . . f 2 2 2 2 2 2 2 2 f f . . . 
+    . f f 2 2 2 2 2 2 2 2 2 f f f . 
+    . f 5 f f f 2 2 2 2 2 f f f . . 
+    . f 5 5 5 f f f f f f 8 8 f . . 
+    . f 5 5 5 5 f f 8 8 8 8 8 f . . 
+    . f 5 5 5 5 f 8 8 8 8 8 f f . . 
+    . f 5 5 5 f 4 f 8 8 8 8 f . . . 
+    . f 5 5 f f 4 f f 8 8 8 f . . . 
+    . f f f f 4 4 4 f f f f f . . . 
+    . f f 4 4 4 4 4 4 4 4 f f . . . 
+    . . f f f f 4 4 4 f f f . . . . 
+    . . . . . . f f f f . . . . . . 
+    `, SpriteKind.Player)
 let 探索者机器人 = sprites.create(assets.image`探索者计数机器人`, SpriteKind.NPC)
 tiles.placeOnRandomTile(探索者机器人, assets.tile`myTile0`)
 探索者 = 0
