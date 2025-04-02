@@ -3,13 +3,21 @@ namespace SpriteKind {
 }
 function 小空间展台 () {
     _08导电与绝缘 = sprites.create(assets.image`08导电与绝缘`, SpriteKind.Player)
+    tiles.placeOnRandomTile(_08导电与绝缘, assets.tile`myTile4`)
     _09可软可硬 = sprites.create(assets.image`09可软可硬`, SpriteKind.Player)
+    tiles.placeOnRandomTile(_09可软可硬, assets.tile`myTile5`)
     _10比黑还黑 = sprites.create(assets.image`10比黑还黑`, SpriteKind.Player)
+    tiles.placeOnRandomTile(_10比黑还黑, assets.tile`myTile6`)
     _11变色纤维 = sprites.create(assets.image`11变色纤维`, SpriteKind.Player)
+    tiles.placeOnRandomTile(_11变色纤维, assets.tile`myTile14`)
     _12千丝万缕 = sprites.create(assets.image`12千丝万缕`, SpriteKind.Player)
+    tiles.placeOnRandomTile(_12千丝万缕, assets.tile`myTile15`)
     _13打捞塑料 = sprites.create(assets.image`13打捞塑料`, SpriteKind.Player)
+    tiles.placeOnRandomTile(_13打捞塑料, assets.tile`myTile16`)
     _14光纤传输 = sprites.create(assets.image`14光纤传输`, SpriteKind.Player)
+    tiles.placeOnRandomTile(_14光纤传输, assets.tile`myTile17`)
     _15塑料烟花 = sprites.create(assets.image`15塑料烟花`, SpriteKind.Player)
+    tiles.placeOnRandomTile(_15塑料烟花, assets.tile`myTile18`)
 }
 scene.onOverlapTile(SpriteKind.Player, assets.tile`myTile1`, function (sprite, location) {
     game.splash("按A键开门")
