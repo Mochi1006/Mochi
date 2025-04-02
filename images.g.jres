@@ -124,6 +124,56 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "15塑料烟花"
     },
+    "image24": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAP////8PAAAA391v1g8AAFDf3W/WDwAQEdHdb9YPABWI2N1v1g8AEFhoZm/WDwAQiGNhb9YPABBYaGZv1g8AFYjY3W/WDwAQEdHdb9YPAABQ391v1g8AAADf3W/WDwAAAP////8PAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "18表情不代表情感"
+    },
+    "image25": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAP////8PAAAA391v1g8AAGDf3W/WDwAQERHdb9YPABCoGNFv1g9gEIoa3W/WDwAWqBj+b9YPYBCKGt1v1g8AEKgY0W/WDwAQERHdb9YPAABg391v1g8AAADf3W/WDwAAAP////8PAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "22声音魔术师"
+    },
+    "image26": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAP////8PAAAA391v1g8AAADf3W/WDwAAERHRb9YPAACBjdFv1g8AAIGI0W/WDwAAgY3Rb9YPAACBiNFv1g8AAIGN0W/WDwAAERHRb9YPAAAA391v1g8AAADf3W/WDwAAAP////8PAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "16数据不等于信息"
+    },
+    "image27": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAP////8PAAAA391v1g8AAADf3W/WDwAAERHRb9YPAACBidFv1g8AAIGI0W/WDwAAgYnRb9YPAACBiNFv1g8AAIGJ0W/WDwAAERHRb9YPAAAA391v1g8AAADf3W/WDwAAAP////8PAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "19创作不等于创意"
+    },
+    "image28": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAP//////AAAA3939Zv0AERER3f1m/QHx+Bnd/Wb90XFvH937Zv3R8fgZhvZm/dFxbx9o+Gb90fH4GYb2Zv3RcW8f3ftm/QHx+Bnd/Wb9ABEREd39Zv0AAADf3f1m/QAAAP//////AAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "21火眼金睛"
+    },
+    "image29": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAP////8PAAAA391v1g8AABER0W/WDwAAkZnRb9YPAACRmdFv1g8A3Z2F0W/WDwD9nYXRb9YPAN2dhdFv1g8AAJGZ0W/WDwAAkZnRb9YPAAAREdFv1g8AAADf3W/WDwAAAP////8PAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "23移花接木"
+    },
+    "image30": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAPD///8PAAAA8N1v1g8AAGEW3W/WDwAAiGjYb9YPEBhYUdhv1g8RH1hV2G/WDxEYWFXYb9YPER9YVdhv1g8QGFhVGG/WDwAAiIjWb9YPAAAQFt1v1g8AAADw3W/WDwAAAPD///8PAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "26感知万物"
+    },
+    "image31": {
+        "data": "hwQQABAAAAAAAAD/////DwAAAN/db9YPAAAREd9v1g8AAAFE32/WDwAAAUTfb9YPAAAREd9v1g8AAADQ3W/WDwAAANDdb9YPAAAREd9v1g8AAAHQ32/WDwAAAbDfb9YPAAAB0N9v1g8AABER32/WDwAAAN/db9YPAAAA/////w8AAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "27芯片小于大脑"
+    },
+    "image32": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAP////8PAAAA391v1g8AEBER0W/WDwAQmZnRb9YPABCZmNFv1g8AEImZ0W/WDwAQmJnRb9YPABCZmNFv1g8AEImZ0W/WDwAQmZnRb9YPABAREdFv1g8AAADf3W/WDwAAAP////8PAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "28 AI➕"
+    },
+    "image33": {
+        "data": "hwQQABAAAAAAAAAAAAAAAN3d3d3d3d3d0L8bGxu72wDQu9HR0RHbANAf3f/fHdsA0Bv9/98d2wDQEd3/3xHbANDR3d3dsdsA0BH//d2x2wDQG//93bHbANAb3f3dsdsA0Bv9/RGx2wDQu9H9sbvbANC7Gx27u9sA0LsbEbu72wDd3d3d3d3d3Q==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "碳纤维展柜"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
