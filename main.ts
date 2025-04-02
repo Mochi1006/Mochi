@@ -18,8 +18,6 @@ function 小空间展台 () {
     tiles.placeOnRandomTile(_14光纤传输, assets.tile`14`)
     _15塑料烟花 = sprites.create(assets.image`15塑料烟花`, SpriteKind.Player)
     tiles.placeOnRandomTile(_15塑料烟花, assets.tile`15`)
-    _16数据不等于信息 = sprites.create(assets.image`16数据不等于信息`, SpriteKind.Player)
-    tiles.placeOnRandomTile(_16数据不等于信息, assets.tile`16`)
 }
 scene.onOverlapTile(SpriteKind.Player, assets.tile`myTile1`, function (sprite, location) {
     game.splash("按A键开门")
@@ -58,6 +56,47 @@ info.onCountdownEnd(function () {
     tiles.setTileAt(tiles.getTileLocation(48, 14), assets.tile`myTile1`)
     tiles.setTileAt(tiles.getTileLocation(48, 16), assets.tile`myTile1`)
 })
+function 第二空间展台 () {
+    _16数据不等于信息 = sprites.create(assets.image`16数据不等于信息`, SpriteKind.Player)
+    tiles.placeOnRandomTile(_16数据不等于信息, assets.tile`16`)
+    _17识别不是理解 = sprites.create(assets.image`17识别不是理解`, SpriteKind.Player)
+    tiles.placeOnRandomTile(_17识别不是理解, assets.tile`17`)
+    _18表情不代表情感 = sprites.create(assets.image`18表情不代表情感`, SpriteKind.Player)
+    tiles.placeOnRandomTile(_18表情不代表情感, assets.tile`18`)
+    _19创作不等于创意 = sprites.create(assets.image`19创作不等于创意`, SpriteKind.Player)
+    tiles.placeOnRandomTile(_19创作不等于创意, assets.tile`19`)
+    _20手影化形 = sprites.create(assets.image`20手影化形`, SpriteKind.Player)
+    tiles.placeOnRandomTile(_20手影化形, assets.tile`1`)
+    _21火眼金睛 = sprites.create(assets.image`21火眼金睛`, SpriteKind.Player)
+    tiles.placeOnRandomTile(_21火眼金睛, assets.tile`21`)
+    _22声音魔术师 = sprites.create(assets.image`22声音魔术师`, SpriteKind.Player)
+    tiles.placeOnRandomTile(_22声音魔术师, assets.tile`0`)
+    _23移花接木 = sprites.create(assets.image`23移花接木`, SpriteKind.Player)
+    tiles.placeOnRandomTile(_23移花接木, assets.tile`23`)
+    _24隔空控物 = sprites.create(assets.image`24隔空控物`, SpriteKind.Player)
+    tiles.placeOnRandomTile(_24隔空控物, assets.tile`24`)
+    _25眼疾手快 = sprites.create(assets.image`25眼疾手快`, SpriteKind.Player)
+    tiles.placeOnRandomTile(_25眼疾手快, assets.tile`2`)
+    _26感知万物 = sprites.create(assets.image`26感知万物`, SpriteKind.Player)
+    tiles.placeOnRandomTile(_26感知万物, assets.tile`3`)
+    _27芯片小于大脑 = sprites.create(assets.image`27芯片小于大脑`, SpriteKind.Player)
+    tiles.placeOnRandomTile(_27芯片小于大脑, assets.tile`27`)
+    _28_AI = sprites.create(assets.image`28 AI➕`, SpriteKind.Player)
+    tiles.placeOnRandomTile(_28_AI, assets.tile`28`)
+}
+let _28_AI: Sprite = null
+let _27芯片小于大脑: Sprite = null
+let _26感知万物: Sprite = null
+let _25眼疾手快: Sprite = null
+let _24隔空控物: Sprite = null
+let _23移花接木: Sprite = null
+let _22声音魔术师: Sprite = null
+let _21火眼金睛: Sprite = null
+let _20手影化形: Sprite = null
+let _19创作不等于创意: Sprite = null
+let _18表情不代表情感: Sprite = null
+let _17识别不是理解: Sprite = null
+let _16数据不等于信息: Sprite = null
 let _07玻璃艺术: Sprite = null
 let _06透过玻璃看见世界: Sprite = null
 let _05特种玻璃: Sprite = null
@@ -65,7 +104,6 @@ let _04压电陶瓷: Sprite = null
 let _03液态金属: Sprite = null
 let _02合金大比拼: Sprite = null
 let _01钢铁练成: Sprite = null
-let _16数据不等于信息: Sprite = null
 let _15塑料烟花: Sprite = null
 let _14光纤传输: Sprite = null
 let _13打捞塑料: Sprite = null
@@ -86,3 +124,4 @@ tiles.placeOnRandomTile(麻薯, sprites.dungeon.collectibleInsignia)
 scene.cameraFollowSprite(麻薯)
 创梦空间展台()
 小空间展台()
+第二空间展台()

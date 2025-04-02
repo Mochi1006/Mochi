@@ -153,82 +153,6 @@ fcbbdcdbdddbdcdbbcf
 ......b.................b.......
 ......b.................b.......
 `;
-            case "image2":
-            case "17识别不是理解":return img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . 5 . . . 5 . . . . . . 
-. . . . 1 1 1 1 1 1 1 . . . . . 
-. . . . 1 8 8 8 8 8 1 . . . . . 
-. . . 5 1 8 5 8 5 8 1 5 . . . . 
-. f f f 1 8 8 3 8 8 1 f f f . . 
-. f d d d d d d d d d d d f . . 
-. f d d d d d e d d d d d f . . 
-. f d d d d d f d d d d d f . . 
-. f f f f f f f f f f f f f . . 
-. f 6 6 6 6 6 6 6 6 6 6 6 f . . 
-. f 6 6 6 6 6 6 6 6 6 6 6 f . . 
-. f d d d d d d d d d d d f . . 
-. f f f f f f f f f f f f f . . 
-. . . . . . . . . . . . . . . . 
-`;
-            case "image3":
-            case "20手影化形":return img`
-. . . . f f f f f f f . . . . . 
-. . . 8 f 1 d d 1 d f 8 . . . . 
-. . . 8 f f f f f f f 8 . . . . 
-. . . 8 . . . . . . . 8 . . . . 
-. . . 8 . . . . . . . 8 . . . . 
-. . . 8 . . . . . . . 8 . . . . 
-. f f 1 f f f f f f f 1 f f . . 
-. f d 8 f 7 7 5 5 7 f 8 d f . . 
-. f d 8 f 5 4 9 4 4 f 8 d f . . 
-. f d d f 4 4 5 9 4 f d d f . . 
-. f f f f f f f f f f f f f . . 
-. f 6 6 6 6 6 6 6 6 6 6 6 f . . 
-. f 6 6 6 6 6 6 6 6 6 6 6 f . . 
-. f d d d d d d d d d d d f . . 
-. f f f f f f f f f f f f f . . 
-. . . . . . . . . . . . . . . . 
-`;
-            case "image5":
-            case "24隔空控物":return img`
-. . . 1 1 1 1 1 1 1 1 1 1 . . . 
-. . . 1 . . f . . . . . 1 . . . 
-. . . 1 . . f . f . f . 1 . . . 
-. . . 1 . f f . f f f . 1 . . . 
-. . . 1 f f f . f f f f 1 . . . 
-. f f 1 . . f . . f . . 1 f f . 
-. f d 1 d d f d d f d d 1 d f . 
-. f d d d d f d d f d d d d f . 
-. f d d d d d d d d d d d d f . 
-. f d d d d d c c d d d d d f . 
-. f f f f f f f f f f f f f f . 
-. f 6 6 6 6 6 6 6 6 6 6 6 6 f . 
-. f 6 6 6 6 6 6 6 6 6 6 6 6 f . 
-. f d d d d d d d d d d d d f . 
-. f f f f f f f f f f f f f f . 
-. . . . . . . . . . . . . . . . 
-`;
-            case "image6":
-            case "25眼疾手快":return img`
-. . . . . . . . . . . . . . . . 
-. . . f f f f f f f f f . . . . 
-. . . f 1 1 1 1 1 1 1 f . . . . 
-. . . 8 f 8 f . f 8 f 8 . . . . 
-. f f 8 . f . f . f . 8 f f . . 
-. f d 8 d 8 f d f 8 d 8 d f . . 
-. f d 8 d d d f d d d 8 d f . . 
-. f d 8 d 9 d 5 d 9 d 8 d f . . 
-. f d 8 d d 9 d 9 d d 8 d f . . 
-. f d d 1 d d d d d 1 d d f . . 
-. f d d d 1 d d d 1 d d d f . . 
-. f f f f f f f f f f f f f . . 
-. f 6 6 6 6 6 6 6 6 6 6 6 f . . 
-. f 6 6 6 6 6 6 6 6 6 6 6 f . . 
-. f d d d d d d d d d d d f . . 
-. f f f f f f f f f f f f f . . 
-`;
             case "image9":
             case "01钢铁炼成":return img`
 . . . . f f f . . . . f f f . . 
@@ -514,6 +438,63 @@ fcbbdcdbdddbdcdbbcf
 . . . . . . . . . . . . 1 . . . 
 . . . . . . . . . . . . . . . . 
 `;
+            case "image33":
+            case "碳纤维展柜":return img`
+. d . . . . . . . . . . . . . d 
+. d d d d d d d d d d d d d d d 
+. d f b f b 1 1 1 b b b b b b d 
+. d b b 1 1 1 d 1 1 1 1 b b b d 
+. d b 1 d d d d f f d d 1 b b d 
+. d 1 d d f d d f f d f d 1 1 d 
+. d b 1 f f f d d d d d d d 1 d 
+. d 1 d f f f d f f f f f 1 1 d 
+. d b 1 f f f d d d d 1 1 b b d 
+. d 1 d d d d d d d d 1 b b b d 
+. d b 1 d d 1 1 1 1 1 1 b b b d 
+. d b 1 1 1 1 b b b b b b b b d 
+. d b b b b b b b b b b b b b d 
+. d d d d d d d d d d d d d d d 
+. d . . . . . . . . . . . . . d 
+. d . . . . . . . . . . . . . d 
+`;
+            case "image26":
+            case "16数据不等于信息":return img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . 1 1 1 1 1 1 1 . . . . . 
+. . . . 1 8 8 8 8 8 1 . . . . . 
+. f f f 1 d 8 d 8 d 1 f f f . . 
+. f d d 1 8 8 8 8 8 1 d d f . . 
+. f d d 1 1 1 1 1 1 1 d d f . . 
+. f d d d d d d d d d d d f . . 
+. f f f f f f f f f f f f f . . 
+. f 6 6 6 6 6 6 6 6 6 6 6 f . . 
+. f 6 6 6 6 6 6 6 6 6 6 6 f . . 
+. f d d d d d d d d d d d f . . 
+. f f f f f f f f f f f f f . . 
+. . . . . . . . . . . . . . . . 
+`;
+            case "image2":
+            case "17识别不是理解":return img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . 5 . . . 5 . . . . . . 
+. . . . 1 1 1 1 1 1 1 . . . . . 
+. . . . 1 8 8 8 8 8 1 . . . . . 
+. . . 5 1 8 5 8 5 8 1 5 . . . . 
+. f f f 1 8 8 3 8 8 1 f f f . . 
+. f d d d d d d d d d d d f . . 
+. f d d d d d e d d d d d f . . 
+. f d d d d d f d d d d d f . . 
+. f f f f f f f f f f f f f . . 
+. f 6 6 6 6 6 6 6 6 6 6 6 f . . 
+. f 6 6 6 6 6 6 6 6 6 6 6 f . . 
+. f d d d d d d d d d d d f . . 
+. f f f f f f f f f f f f f . . 
+. . . . . . . . . . . . . . . . 
+`;
             case "image24":
             case "18表情不代表情感":return img`
 . . . . . . . . . . . . . . . . 
@@ -526,25 +507,6 @@ fcbbdcdbdddbdcdbbcf
 . f d d d d 6 6 6 d d d d f . . 
 . f d d d d 6 1 6 d d d d f . . 
 . f d d d d 6 6 6 d d d d f . . 
-. f f f f f f f f f f f f f . . 
-. f 6 6 6 6 6 6 6 6 6 6 6 f . . 
-. f 6 6 6 6 6 6 6 6 6 6 6 f . . 
-. f d d d d d d d d d d d f . . 
-. f f f f f f f f f f f f f . . 
-. . . . . . . . . . . . . . . . 
-`;
-            case "image25":
-            case "22声音魔术师":return img`
-. . . . . . . . . . . . . . . . 
-. . . . . . 6 . 6 . . . . . . . 
-. . . . . . . 6 . . . . . . . . 
-. . . . 1 1 1 1 1 1 1 . . . . . 
-. . . . 1 8 a 8 a 8 1 . . . . . 
-. . . 6 1 a 8 a 8 a 1 6 . . . . 
-. f f f 1 8 a 8 a 8 1 f f f . . 
-. f d d 1 1 1 1 1 1 1 d d f . . 
-. f d d d 1 d e d 1 d d d f . . 
-. f d d d d d f d d d d d f . . 
 . f f f f f f f f f f f f f . . 
 . f 6 6 6 6 6 6 6 6 6 6 6 f . . 
 . f 6 6 6 6 6 6 6 6 6 6 6 f . . 
@@ -571,6 +533,25 @@ fcbbdcdbdddbdcdbbcf
 . f f f f f f f f f f f f f . . 
 . . . . . . . . . . . . . . . . 
 `;
+            case "image3":
+            case "20手影化形":return img`
+. . . . f f f f f f f . . . . . 
+. . . 8 f 1 d d 1 d f 8 . . . . 
+. . . 8 f f f f f f f 8 . . . . 
+. . . 8 . . . . . . . 8 . . . . 
+. . . 8 . . . . . . . 8 . . . . 
+. . . 8 . . . . . . . 8 . . . . 
+. f f 1 f f f f f f f 1 f f . . 
+. f d 8 f 7 7 5 5 7 f 8 d f . . 
+. f d 8 f 5 4 9 4 4 f 8 d f . . 
+. f d d f 4 4 5 9 4 f d d f . . 
+. f f f f f f f f f f f f f . . 
+. f 6 6 6 6 6 6 6 6 6 6 6 f . . 
+. f 6 6 6 6 6 6 6 6 6 6 6 f . . 
+. f d d d d d d d d d d d f . . 
+. f f f f f f f f f f f f f . . 
+. . . . . . . . . . . . . . . . 
+`;
             case "image28":
             case "21火眼金睛":return img`
 . . . . 1 1 1 1 1 1 1 . . . . . 
@@ -590,6 +571,25 @@ fcbbdcdbdddbdcdbbcf
 . f d d d d d d d d d d d f . . 
 . f f f f f f f f f f f f f . . 
 `;
+            case "image25":
+            case "22声音魔术师":return img`
+. . . . . . . . . . . . . . . . 
+. . . . . . 6 . 6 . . . . . . . 
+. . . . . . . 6 . . . . . . . . 
+. . . . 1 1 1 1 1 1 1 . . . . . 
+. . . . 1 8 a 8 a 8 1 . . . . . 
+. . . 6 1 a 8 a 8 a 1 6 . . . . 
+. f f f 1 8 a 8 a 8 1 f f f . . 
+. f d d 1 1 1 1 1 1 1 d d f . . 
+. f d d d 1 d e d 1 d d d f . . 
+. f d d d d d f d d d d d f . . 
+. f f f f f f f f f f f f f . . 
+. f 6 6 6 6 6 6 6 6 6 6 6 f . . 
+. f 6 6 6 6 6 6 6 6 6 6 6 f . . 
+. f d d d d d d d d d d d f . . 
+. f f f f f f f f f f f f f . . 
+. . . . . . . . . . . . . . . . 
+`;
             case "image29":
             case "23移花接木":return img`
 . . . . . . . . . . . . . . . . 
@@ -608,6 +608,44 @@ fcbbdcdbdddbdcdbbcf
 . f d d d d d d d d d d d f . . 
 . f f f f f f f f f f f f f . . 
 . . . . . . . . . . . . . . . . 
+`;
+            case "image5":
+            case "24隔空控物":return img`
+. . . 1 1 1 1 1 1 1 1 1 1 . . . 
+. . . 1 . . f . . . . . 1 . . . 
+. . . 1 . . f . f . f . 1 . . . 
+. . . 1 . f f . f f f . 1 . . . 
+. . . 1 f f f . f f f f 1 . . . 
+. f f 1 . . f . . f . . 1 f f . 
+. f d 1 d d f d d f d d 1 d f . 
+. f d d d d f d d f d d d d f . 
+. f d d d d d d d d d d d d f . 
+. f d d d d d c c d d d d d f . 
+. f f f f f f f f f f f f f f . 
+. f 6 6 6 6 6 6 6 6 6 6 6 6 f . 
+. f 6 6 6 6 6 6 6 6 6 6 6 6 f . 
+. f d d d d d d d d d d d d f . 
+. f f f f f f f f f f f f f f . 
+. . . . . . . . . . . . . . . . 
+`;
+            case "image6":
+            case "25眼疾手快":return img`
+. . . . . . . . . . . . . . . . 
+. . . f f f f f f f f f . . . . 
+. . . f 1 1 1 1 1 1 1 f . . . . 
+. . . 8 f 8 f . f 8 f 8 . . . . 
+. f f 8 . f . f . f . 8 f f . . 
+. f d 8 d 8 f d f 8 d 8 d f . . 
+. f d 8 d d d f d d d 8 d f . . 
+. f d 8 d 9 d 5 d 9 d 8 d f . . 
+. f d 8 d d 9 d 9 d d 8 d f . . 
+. f d d 1 d d d d d 1 d d f . . 
+. f d d d 1 d d d 1 d d d f . . 
+. f f f f f f f f f f f f f . . 
+. f 6 6 6 6 6 6 6 6 6 6 6 f . . 
+. f 6 6 6 6 6 6 6 6 6 6 6 f . . 
+. f d d d d d d d d d d d f . . 
+. f f f f f f f f f f f f f . . 
 `;
             case "image30":
             case "26感知万物":return img`
@@ -658,44 +696,6 @@ f f f f f f f f f f f f f f f .
 . f f 1 9 8 9 9 8 9 9 1 f f . . 
 . f d 1 9 9 9 9 9 9 9 1 d f . . 
 . f d 1 1 1 1 1 1 1 1 1 d f . . 
-. f d d d d d d d d d d d f . . 
-. f f f f f f f f f f f f f . . 
-. f 6 6 6 6 6 6 6 6 6 6 6 f . . 
-. f 6 6 6 6 6 6 6 6 6 6 6 f . . 
-. f d d d d d d d d d d d f . . 
-. f f f f f f f f f f f f f . . 
-. . . . . . . . . . . . . . . . 
-`;
-            case "image33":
-            case "碳纤维展柜":return img`
-. d . . . . . . . . . . . . . d 
-. d d d d d d d d d d d d d d d 
-. d f b f b 1 1 1 b b b b b b d 
-. d b b 1 1 1 d 1 1 1 1 b b b d 
-. d b 1 d d d d f f d d 1 b b d 
-. d 1 d d f d d f f d f d 1 1 d 
-. d b 1 f f f d d d d d d d 1 d 
-. d 1 d f f f d f f f f f 1 1 d 
-. d b 1 f f f d d d d 1 1 b b d 
-. d 1 d d d d d d d d 1 b b b d 
-. d b 1 d d 1 1 1 1 1 1 b b b d 
-. d b 1 1 1 1 b b b b b b b b d 
-. d b b b b b b b b b b b b b d 
-. d d d d d d d d d d d d d d d 
-. d . . . . . . . . . . . . . d 
-. d . . . . . . . . . . . . . d 
-`;
-            case "image26":
-            case "16数据不等于信息":return img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . 1 1 1 1 1 1 1 . . . . . 
-. . . . 1 8 8 8 8 8 1 . . . . . 
-. f f f 1 d 8 d 8 d 1 f f f . . 
-. f d d 1 8 8 8 8 8 1 d d f . . 
-. f d d 1 1 1 1 1 1 1 d d f . . 
 . f d d d d d d d d d d d f . . 
 . f f f f f f f f f f f f f . . 
 . f 6 6 6 6 6 6 6 6 6 6 6 f . . 
