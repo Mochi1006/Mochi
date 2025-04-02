@@ -21,7 +21,26 @@ controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
 info.onCountdownEnd(function () {
     tiles.setTileAt(tiles.getTileLocation(48, 14), assets.tile`myTile1`)
     tiles.setTileAt(tiles.getTileLocation(48, 16), assets.tile`myTile1`)
+    苹果 = sprites.create(img`
+        . . . . . . . . . . . . . . . . 
+        . . . . . . . . . . . . . . . . 
+        . . . . . . . . . . . . . . . . 
+        . . . 3 3 3 3 . 3 3 3 . . . . . 
+        . . . . . . . 3 3 . . 3 3 . . . 
+        . . . . . . . 3 3 . . . 3 . . . 
+        . . . . 3 3 3 3 3 . . . 3 . . . 
+        . . . . 3 . 3 . 3 3 . . . 3 . . 
+        . . . . 3 . . 3 3 . . . . 3 . . 
+        . . . . 3 . . . . . . . 3 . . . 
+        . . . . 3 3 . . . . . . 3 . . . 
+        . . . . . . 3 3 . . 3 3 . . . . 
+        . . . . . . . . 3 3 3 . . . . . 
+        . . . . . . . . . . . . . . . . 
+        . . . . . . . . . . . . . . . . 
+        . . . . . . . . . . . . . . . . 
+        `, SpriteKind.NPC)
 })
+let 苹果: Sprite = null
 let 麻薯: Sprite = null
 let 探索者 = 0
 tiles.setCurrentTilemap(tilemap`级别1`)
